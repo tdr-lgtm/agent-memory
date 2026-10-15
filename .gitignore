@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Local data from later lessons
+data/
+*.db
+*.sqlite
+
+# Editors
+.vscode/
+.idea/
